@@ -8,7 +8,10 @@
 
 <br>
 
-<img alt="Ghadi's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=GhadiChender&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=a855f7&text_color=8b949e&ring_color=a855f7">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiChender&theme=github_dark">
+  <img alt="Ghadi's GitHub stats" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiChender&theme=default">
+</picture>
 <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=GhadiChender&theme=transparent&hide_border=true&ring=a855f7&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8b949e&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=64748b">
 
 <br><br>
