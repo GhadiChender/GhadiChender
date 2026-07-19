@@ -9,10 +9,10 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiChender&theme=github_dark">
-  <img alt="Ghadi's GitHub stats" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiChender&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="stats-light.svg">
+  <img alt="year in review — 2,677 commits, 95-commit peak day, 188 active days, 31-day best streak, 15 repos" src="stats-dark.svg" width="100%">
 </picture>
-<img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=GhadiChender&theme=transparent&hide_border=true&ring=a855f7&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8b949e&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=64748b">
 
 <br><br>
 
