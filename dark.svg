@@ -78,14 +78,16 @@
 <text x="687.1999999999999" y="453.0"><tspan fill="#22d3ee" font-weight="bold">Grid.Site</tspan><tspan x="762.2" fill="#334155">............................................</tspan><tspan x="1207.0" text-anchor="end" fill="#e2e8f0"> aristrading.ai</tspan></text>
 <text x="687.1999999999999" y="472.0"><tspan fill="#22d3ee" font-weight="bold">Grid.GitHub</tspan><tspan x="777.2" fill="#334155">............................................</tspan><tspan x="1207.0" text-anchor="end" fill="#e2e8f0"> GhadiChender</tspan></text>
 <text x="687.1999999999999" y="501.4" font-weight="bold" fill="#f472b6">── Live.Stats ──</text>
-<text x="687.1999999999999" y="520.5" fill="#4ade80">▓ see live GitHub stats below ↓</text>
-<rect x="687.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#312e81"/>
-<rect x="729.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#4338ca"/>
-<rect x="771.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#0369a1"/>
-<rect x="813.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#0ea5e9"/>
-<rect x="855.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#22d3ee"/>
-<rect x="897.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#a5f3fc"/>
-<rect x="939.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#c084fc"/>
-<rect x="981.1999999999999" y="537.9" width="34" height="16" rx="4" fill="#f472b6"/>
+<text x="687.1999999999999" y="520.5"><tspan fill="#22d3ee" font-weight="bold">Commits.Y1</tspan><tspan x="769.7" fill="#334155">....................................</tspan><tspan x="1207.0" text-anchor="end" fill="#e2e8f0"> 2,675 across 15 repos</tspan></text>
+<text x="687.1999999999999" y="539.5"><tspan fill="#22d3ee" font-weight="bold">Ship.Rate</tspan><tspan x="762.2" fill="#334155">........................................</tspan><tspan x="1207.0" text-anchor="end" fill="#e2e8f0"> ~7.3 commits / day</tspan></text>
+<text x="687.1999999999999" y="558.5" fill="#4ade80">▓ live cards + snake below ↓</text>
+<rect x="687.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#312e81"/>
+<rect x="729.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#4338ca"/>
+<rect x="771.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#0369a1"/>
+<rect x="813.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#0ea5e9"/>
+<rect x="855.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#22d3ee"/>
+<rect x="897.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#a5f3fc"/>
+<rect x="939.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#c084fc"/>
+<rect x="981.1999999999999" y="575.9" width="34" height="16" rx="4" fill="#f472b6"/>
 </g>
 </svg>
