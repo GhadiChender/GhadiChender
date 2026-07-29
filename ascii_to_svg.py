@@ -88,7 +88,7 @@ INFO = [
     ("kv", ("Grid.GitHub", "GhadiChender")),
     ("gap", None),
     ("sect", "Live.Stats"),
-    ("kv", ("Commits.Y1", "2,675 across 15 repos")),
+    ("kv", ("Commits.Y1", "2,677 across 15 repos")),
     ("kv", ("Ship.Rate", "~7.3 commits / day")),
     ("note", "▓ live cards + snake below ↓"),
     ("gap", None),
