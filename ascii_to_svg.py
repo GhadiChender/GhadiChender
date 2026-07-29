@@ -84,7 +84,7 @@ INFO = [
     ("gap", None),
     ("sect", "Contact"),
     ("kv", ("Grid.Mail", "ghadichender@outlook.com")),
-    ("kv", ("Grid.Site", "aristrading.ai")),
+    ("kv", ("Grid.Site", "asco-ai.sa")),
     ("kv", ("Grid.GitHub", "GhadiChender")),
     ("gap", None),
     ("sect", "Live.Stats"),
